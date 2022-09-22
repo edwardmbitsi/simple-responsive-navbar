@@ -19,11 +19,22 @@ h1{
   color: #39ca74;
 }
 
-ul{
+li{
   display: inline-block;
   padding: 15px 30px;
 }
 
+ul{
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
 
-  
+a{
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+}
   
